@@ -1,0 +1,5 @@
+migrate -n explorer.exe
+search -d C:\\Users\\Public -f test123.jpg
+rm C:\\Users\\Public\\test123.jpg
+search -d C:\\Users\\Public -f payload.exe
+rm C:\\Users\\Public\\payload.exe
