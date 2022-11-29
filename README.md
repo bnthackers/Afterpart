@@ -1,13 +1,14 @@
 
-![AfterPart v1.0](Cheese_Sat-07Dec19_17.19.png)
+![AfterPart v1.0]
 <br>
 
 
 
+    _    __ _           ___          _   
    /_\  / _| |_ ___ _ _| _ \__ _ _ _| |_ 
   / _ \|  _|  _/ -_) '_|  _/ _` | '_|  _|
  /_/ \_\_|  \__\___|_| |_| \__,_|_|  \__|
-                                            
+                                         
 
     Version release: v1.0 (Stable)
     Author: Garvit Sharma, Shivam Kumar, Gaurav Anjna [ G-S-G ]
