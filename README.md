@@ -11,7 +11,7 @@
                                          
 
     Version release: v1.0 (Stable)
-    Author: Garvit Sharma, Shivam Kumar, Gaurav Anjna [ G-S-G ]
+    Author: Garvit Sharma
     Distros Supported : Linux Ubuntu, Kali, Mint, Parrot OS
 
 ## Legal Disclamer:
